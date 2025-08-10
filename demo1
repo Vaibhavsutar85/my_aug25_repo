@@ -2,4 +2,10 @@ This is my text file
 
 updated mew sentence in file
 
+<<<<<<< HEAD
 added changes in feature branch 2
+=======
+hello this is august month
+
+new line added demo1 at 4pm
+>>>>>>> feature3
